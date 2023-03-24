@@ -1,0 +1,16 @@
+{
+  "name": "dartoken",
+  "version": "1.0.0",
+  "description": "This is Token for experment",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cleverence Kombe",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.2",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "fs": "^0.0.1-security"
+  }
+}
