@@ -1,0 +1,26 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   build/contracts/Context.json
+#	new file:   build/contracts/ERC20.json
+#	new file:   build/contracts/ERC20darToken.json
+#	new file:   build/contracts/IERC20.json
+#	new file:   build/contracts/IERC20Metadata.json
+#	new file:   contracts/.gitkeep
+#	new file:   contracts/dartoken.sol
+#	new file:   key.secret
+#	new file:   migrations/.gitkeep
+#	new file:   migrations/2_deploy_contracts.js
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   test/DarToken.code-workspace
+#	new file:   test/darToken.js
+#	new file:   truffle-config.js
+#
