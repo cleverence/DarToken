@@ -48,7 +48,7 @@
 
 const HDWalletProvider = require('@truffle/hdwallet-provider');
 
-const infuraKey = "bc021480a21745f484560364f0852ff1";
+const infuraKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 const fs = require('fs');
 
